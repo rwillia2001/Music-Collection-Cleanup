@@ -1,14 +1,6 @@
 # Music-Collection-Cleanup
-Music Collection Cleanup – Stage One Summary At project kickoff, the music collection consisted of ................
 
 Digitial Music Collection Upgrade and simplification with chatGPT June 2025
-Inbox
-
-Roy Williams rwillia2001@gmail.com
-Wed, Jul 2, 1023 AM (2 days ago)
-to me
-
-✅ Of course — here’s a concise ~300-word project summary you can copy into your notes or documentation
 
 Music Collection Cleanup – Stage One Summary
 At project kickoff, the music collection consisted of thousands of FLAC and MP3 files with inconsistent folder structures, metadata gaps, and many duplicate or orphaned items. Playback across Plex and PowerAmp was inconsistent due to mixed tags, inconsistent albumartist fields, and an unstructured folder hierarchy. Path length exceeding limit was a big problem and meant that a lot of files would not transfer to the already long path length for the MUSIC folder on Android.
